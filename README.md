@@ -1,1 +1,1 @@
-# laboratorna4
+# laba-4
